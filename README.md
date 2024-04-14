@@ -8,6 +8,19 @@ Welcome to "Ghost Killer" - an exhilarating Python game crafted using the Pygame
 - Press 'Space' to start the game.
 - Press 'Esc' to quit the game.
 
+## Features:
+- Player Controls: Move your character left and right to dodge enemies and collect power-ups.
+
+- Attack Mechanism: Use your mouse cursor to target and attack enemies with precision.
+
+- Dynamic Enemy Spawning: Enemies spawn dynamically, providing continuous challenges as you progress.
+
+- Power Boosters: Collect power-ups to enhance your abilities and increase your chances of survival.
+
+- Scoring System: Track your score as you defeat enemies and strive for the highest score possible.
+
+- Game Over Animation: Experience an immersive game over screen with score tracking and an option to restart.
+
 ## Getting Started
 
 ### Prerequisites
@@ -33,5 +46,13 @@ You can view the code for this project on GitHub. Click [here][https://github.co
 Feel free to delve into the code, inspect the implementation details, and uncover the secrets behind the game's mechanics.
 
 Join us in the realm of game development and discover the enchantment of Pygame. Let the hunt begin!
-```
+
+## Preview
+
+<video width="320" height="240" controls>
+  <source src="VID_25820607_072440_613.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 

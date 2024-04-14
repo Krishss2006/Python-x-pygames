@@ -267,7 +267,7 @@ def intro_screen():
 ## Initializing game
 pygame.init()
 screen = pygame.display.set_mode((800,500))
-pygame.display.set_caption('Kill Them')
+pygame.display.set_caption('Ghost Killer')
 clock = pygame.time.Clock()
 Frame_rate = 60
 spaw_enemy_evnt = 2200

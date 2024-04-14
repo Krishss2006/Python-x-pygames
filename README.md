@@ -1,4 +1,3 @@
-markdown
 # Ghost Killer - A Python Game using Pygame
 
 Welcome to "Ghost Killer" - an exhilarating Python game crafted using the Pygame library! Immerse yourself in the excitement as you delve into the codebase on GitHub.
@@ -29,7 +28,7 @@ Welcome to "Ghost Killer" - an exhilarating Python game crafted using the Pygame
    ```
 
 ## View the Code
-You can view the code for this project on GitHub. Click [here]([https://github.com/your-username/ghost-killer](https://github.com/Krishss2006/Python-x-pygames/tree/0893619bad6f473f7f68f1a5635d9e93c60cee67/Ghost%20Killer)) to access the project directory.
+You can view the code for this project on GitHub. Click [here][https://github.com/Krishss2006/Python-x-pygames/tree/0893619bad6f473f7f68f1a5635d9e93c60cee67/Ghost%20Killer] to access the project directory.
 
 Feel free to delve into the code, inspect the implementation details, and uncover the secrets behind the game's mechanics.
 

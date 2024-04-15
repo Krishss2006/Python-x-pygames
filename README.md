@@ -49,10 +49,12 @@ Join us in the realm of game development and discover the enchantment of Pygame.
 
 ## Preview
 
-<video width="320" height="240" controls>
-  <source src="VID_25820607_072440_613.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Krishss2006/Python-x-pygames/assets/136157329/089409b4-5a29-49a7-80d3-17204a2a1ec3
+
+
+[![Click to watch the video](https://i.ytimg.com/vi/8aq8yfBshDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQUEychHMaKmjlgLd3ss3ipwGVTQ)](https://youtu.be/8aq8yfBshDY?si=YSbS_uKGdPqBSF2B)
+
+
 
 
 
